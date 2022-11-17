@@ -21,3 +21,10 @@ The user can even filter for more than one search value, like in the example bel
 
 ## Summary
 
+### Drawback
+One drawback of this new website design is that it can't filter for one value in a filter OR another value in a different filter. It only filters for both at the same time. Example: it can't filter for city as "benton" OR shape as "circle".
+
+### Additional Recommendations
+One recommendation to further improve the website would be to allow filtering of the value for additional boolean operators like "OR" and "NOT" in the search. This would allow the user to filter even further in their search within the UFO data.
+
+Another recommendation would be for the table to start filtering as soon as the user starts typing the search filter value. For example, when the user types "el cajon", and they only have typed "el", the table will filter without needing to press the "enter" key. This will be much quicker to display data for the user and it is a more effective way to search. 
