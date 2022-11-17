@@ -10,7 +10,7 @@ The purpose of the analysis is to create an expanded filter for the UFOs webpage
 The user of the website can use the search filter to type a value into the text boxes and press the "enter" button on their keyboard in order to filter the table with UFO data on the website. 
 
 As the default, the UFO table on the website has all data that is not filtered as per the below website.
-![image](https://user-images.githubusercontent.com/108503112/202320966-06560eb3-2b05-4928-a421-e9b499a33eb1.png)
+![image](https://user-images.githubusercontent.com/108503112/202323266-d496aed9-d6d0-4c71-9729-72e7aab02fdf.png)
 
 When the user filters, they enter in a value like in the example below, "el cajon" as a city was entered and once the "enter" button was pressed, the data was filtered for only the values which have the city as "el cajon".
 ![image](https://user-images.githubusercontent.com/108503112/202319522-f72dbac8-545f-4e25-8dde-1dc8029f57c5.png)
